@@ -133,12 +133,3 @@ Code
 codeblock example
 ```
 
-Latex
-
-Inline latex:  and ; 
-
-Latex Block  
-
-LINKS TO THIS PAGE
-
-[Alternate Color Schemes](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Alternate+Color+Schemes)
