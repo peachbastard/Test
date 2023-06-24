@@ -5,6 +5,7 @@
 
 [[Test\|Test]]
 
+[[Important Red CSS Test\|Important Red CSS Test]]
 
 
 >[!infobox]
