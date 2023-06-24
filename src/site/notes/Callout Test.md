@@ -7,5 +7,5 @@
 
 #important 
 
->[!vehicle]
+>[!infobox]
 >![Oz IMG.png](/img/user/z_Images/Oz%20IMG.png)
