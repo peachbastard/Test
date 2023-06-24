@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/css/css-test/","contentClasses":"wiki style callout clean"}
+{"dg-publish":true,"permalink":"/css/css-test/","contentClasses":"cards"}
 ---
 
 
