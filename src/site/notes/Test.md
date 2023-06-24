@@ -134,3 +134,5 @@ codeblock example
 ```
 
 [[CSS Test\|CSS Test]]
+
+[[Callout Test\|Callout Test]]
