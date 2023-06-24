@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/css/css-test/"}
+{"dg-publish":true,"permalink":"/css/css-test/","contentClasses":"wiki style callout clean"}
 ---
 
 
+>[!infobox]
+>![TEST IMG.png](/img/user/z_Images/TEST%20IMG.png)
 
+
+```
 /* Custom Callout Box for "Wiki" style infoboxes.
-Fixed width, floats right, and strips "flair" from ![[embedded\|embedded]] files */
+Fixed width, floats right, and strips "flair" from ![[embedded]] files */
 
 /* Fix Width, float right, boarder, color */
 .callout[data-callout="infobox"],
@@ -107,3 +111,4 @@ Fixed width, floats right, and strips "flair" from ![[embedded\|embedded]] files
   /* Obsidian Custom Variables */
   --callout-icon: lucide-truck;
 }
+```
