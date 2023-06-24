@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/css-test/","contentClasses":""}
+{"dg-publish":true,"permalink":"/css-test/","contentClasses":"test"}
 ---
 
 
