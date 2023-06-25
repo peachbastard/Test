@@ -1,19 +1,7 @@
 body { 
-.cm-hmd-internal-link .cm-underline, .internal-link {
-text-decoration: initial !important
-} 
-
-Centered H1
-/* EDIT MODE */
-
-.HyperMD-header.HyperMD-header-1 {
-    text-align: center;
+h1, h2, h3, h4, h5, h6 {
+  background-image: linear-gradient(to bottom, #4e4376, #2b5876);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
-
-/* PREVIEW MODE */
-
-.markdown-preview-view h1 {
-    text-align: center;
-}
-
 }
