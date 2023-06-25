@@ -1,0 +1,20 @@
+/* Custom Callout Styles */
+.callout[data-callout="custom"] {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+
+.callout[data-callout="custom"] img {
+  width: 70%; /* Adjust the image width as desired */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px;
+}
+
+.callout[data-callout="custom"] p {
+  margin: 0;
+}

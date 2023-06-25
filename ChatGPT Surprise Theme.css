@@ -1,0 +1,62 @@
+/* Surprise Obsidian MD Theme */
+body {
+    background-color: #ff00ff; /* Magenta */
+    color: #00ffff; /* Cyan */
+  }
+  
+  h1 {
+    color: #ff0000; /* Red */
+  }
+  
+  h2 {
+    color: #00ff00; /* Green */
+  }
+  
+  h3 {
+    color: #0000ff; /* Blue */
+  }
+  
+  h4 {
+    color: #ffff00; /* Yellow */
+  }
+  
+  h5 {
+    color: #ff8000; /* Orange */
+  }
+  
+  h6 {
+    color: #8000ff; /* Purple */
+  }
+  
+  a {
+    color: #00ff00; /* Green */
+  }
+  
+  a:hover {
+    color: #ff0000; /* Red */
+  }
+  
+  pre, code {
+    background-color: #ffff00; /* Yellow */
+    color: #000000; /* Black */
+  }
+  
+  .side-dock {
+    background-color: #0000ff; /* Blue */
+    color: #ffff00; /* Yellow */
+  }
+  
+  .side-dock .workspace-header {
+    background-color: #ff00ff; /* Magenta */
+    color: #00ffff; /* Cyan */
+  }
+  
+  .pane-content.pane-active {
+    background-color: #00ff00; /* Green */
+    color: #000000; /* Black */
+  }
+  
+  .splitpane-divider {
+    background-color: #ff0000; /* Red */
+  }
+  

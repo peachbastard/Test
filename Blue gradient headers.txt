@@ -1,0 +1,11 @@
+/* Dark blue gradient for headers */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  background-image: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

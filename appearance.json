@@ -1,0 +1,19 @@
+{
+  "accentColor": "#364ba1",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "realistic highlight",
+    "Round Table Edges",
+    "Lavender Callout Box",
+    "pills css",
+    "ChatGPT Custom Callout",
+    "Blue gradient headers",
+    "custom npc css",
+    "custom pc css",
+    "custom person css",
+    "remove underline links",
+    "Bigger Table"
+  ],
+  "theme": "obsidian",
+  "textFontFamily": ""
+}

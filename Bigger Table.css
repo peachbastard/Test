@@ -1,0 +1,5 @@
+/* Make tables bigger in Obsidian MD */
+.markdown-preview-view table {
+  width: 100%;
+  font-size: 16px;
+}

@@ -1,0 +1,4 @@
+/* hide title bar text */
+.titlebar-text {
+  color: transparent;
+}

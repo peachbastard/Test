@@ -1,0 +1,4 @@
+/* Frameless = no titlebar */
+.is-frameless {
+  padding-top:0px !important;
+}

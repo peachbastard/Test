@@ -1,0 +1,70 @@
+/* Main background color */
+body {
+    background-color: #000000;
+  }
+  
+  /* Text color */
+  body {
+    color: #eeba30;
+  }
+  
+  /* Heading colors */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ae0001;
+  }
+  
+  /* Link color */
+  a {
+    color: #d3a625;
+  }
+  
+  /* Link hover color */
+  a:hover {
+    color: #740001;
+  }
+  
+  /* Code block background color */
+  pre, code {
+    background-color: #740001;
+  }
+  
+  /* Code block text color */
+  pre, code {
+    color: #eeba30;
+  }
+  
+  /* Sidebar background color */
+  .side-dock {
+    background-color: #740001;
+  }
+  
+  /* Sidebar text color */
+  .side-dock {
+    color: #eeba30;
+  }
+  
+  /* Sidebar header background color */
+  .side-dock .workspace-header {
+    background-color: #ae0001;
+  }
+  
+  /* Sidebar header text color */
+  .side-dock .workspace-header {
+    color: #eeba30;
+  }
+  
+  /* Active pane background color */
+  .pane-content.pane-active {
+    background-color: #ae0001;
+  }
+  
+  /* Active pane text color */
+  .pane-content.pane-active {
+    color: #eeba30;
+  }
+  
+  /* Pane divider color */
+  .splitpane-divider {
+    background-color: #d3a625;
+  }
+  

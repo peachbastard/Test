@@ -1,0 +1,5 @@
+.callout[data-callout="npc"] {
+    --callout-title-color: rgb(219, 55, 37);
+    --callout-color: 9, 10,20;
+    --callout-icon: lucide-venetian-mask;
+}
